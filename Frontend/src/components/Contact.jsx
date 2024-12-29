@@ -17,7 +17,7 @@ function Contact() {
             </div>
           <div className="flex justify-between">
             <div className="right w-1/2">
-                sxhvdshvljdsvclusdcsvcc.shvcl;scv;cuishcnjvxlvhclsdu7fcschsdvcuscvjsuvcufcyowelvuiewluwevl
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum adipisci perferendis, quam quod totam quisquam exercitationem suscipit similique eligendi odit. Perspiciatis, adipisci aliquid.
             </div>
             <div className="left w-1/2">left</div>
          </div>
